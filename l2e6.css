@@ -1,0 +1,25 @@
+table {
+    border-collapse: collapse;
+    font-size: 6rem;
+    margin: 50px auto;
+}
+
+tr {
+    background-color: lightcyan;
+}
+
+th {
+    color: red;
+    background-color: lightblue;
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: center;
+    border: 1px solid black;
+}
+
+td {
+    color: black;
+    text-align: center;
+    border: 1px dashed black;
+}

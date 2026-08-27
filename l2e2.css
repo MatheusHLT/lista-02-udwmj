@@ -1,0 +1,27 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 65px;
+    font-weight: bold;
+    -webkit-text-stroke-width: 1.6px;
+    -webkit-text-stroke-color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 16%;
+    border-radius: 15%;
+}
+
+ol {
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 5%;
+}

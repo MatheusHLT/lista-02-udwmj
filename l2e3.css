@@ -1,0 +1,29 @@
+body {
+    background-color: bisque;
+    padding-top: 3px;
+}
+
+h1 {
+    text-align: center;
+    color: darkslateblue;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+}
+
+h2 {
+    font-size: 35px;
+    font-weight: bold;
+    color: darkred;
+    text-align: center;
+    text-decoration: underline;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+ul, ol {
+    color: darkmagenta;
+    font-size: 30px; 
+    padding-left: 10%;
+}
